@@ -1,0 +1,276 @@
+.jumbotron {
+  padding: 16rem 5rem;
+  background-color: #004b9f;
+}
+.lead {
+  color: #ffffff;
+  font-family: Poppins;
+  font-size: px;
+  font-weight: 800;
+  line-height: 81px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.navbar-nav {
+  padding: 50px;
+}
+
+.nav-item {
+  padding: 10px;
+}
+
+.display-4 {
+  color: #ffffff;
+  font-family: Poppins;
+  font-size: 100px;
+  font-weight: 800;
+  line-height: 130px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: -45px;
+  margin-bottom: -45px;
+}
+.btn {
+  color: #025abf;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.latardua {
+  background-color: #ffffff;
+  padding: 25rem 5rem;
+}
+
+.latartiga {
+  background-color: #025abf;
+  padding: 4rem 5rem;
+}
+
+.judul-1 {
+  color: #025abf;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 81px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: -350px;
+  margin-bottom: 15px;
+}
+
+.judul-2 {
+  color: #ffffff;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 81px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: -500px;
+  margin-bottom: 15px;
+}
+
+.isi-2 {
+  color: #025abf;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: 0em;
+  width: 970px;
+  text-align: center;
+  margin-left: 145px;
+  margin-top: 70px;
+}
+
+.sejarah {
+  margin-left: 275px;
+}
+
+.play {
+  position: absolute;
+  margin-top: 290px;
+  margin-left: -780px;
+}
+
+/* utility */
+.tombol {
+  border-radius: 40px;
+}
+
+.tombol-1 {
+  border-radius: 40px;
+  margin-left: 555px;
+}
+
+.button {
+  transform: translate(-50%, -52%) scale(1.2);
+  max-width: 350px;
+  transition: 0.5s;
+}
+
+.card {
+  border-radius: 59px;
+}
+
+.judul-5 {
+  color: #ffcd00;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 81px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: -200px;
+  margin-bottom: 15px;
+}
+
+.testimonii {
+  margin-top: 30px;
+  margin-left: px;
+}
+.bundo {
+  margin-left: 200px;
+  margin-top: -150px;
+  color: #025abf;
+  font-family: Poppins;
+  font-weight: 800;
+}
+
+.mitra-1 {
+  margin-left: 200px;
+  color: #025abf;
+  font-family: Poppins;
+  font-style: italic;
+}
+
+.latar-5 {
+  background-color: #ffffff;
+  padding: 8rem 5rem;
+}
+.latar-6 {
+  background-color: #ffffff;
+  padding: 5rem 5rem;
+}
+
+.judul-3 {
+  color: #025abf;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 81px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: -40px;
+  margin-bottom: 15px;
+}
+.tombol-2 {
+  border-radius: 40px;
+}
+
+.tombol-3 {
+  border-radius: 40px;
+}
+
+.latar-7 {
+  background-color: #025abf;
+  padding: 5rem 5rem;
+}
+
+.judul-7 {
+  color: #ffcd00;
+  font-family: Poppins;
+  font-size: 60px;
+  font-weight: 800;
+  line-height: 81px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: -50px;
+  margin-bottom: px;
+}
+
+.pintu {
+  margin-top: -200px;
+  margin-left: 900px;
+}
+
+.loogo {
+  margin-top: -140px;
+}
+
+.btn-2 {
+  color: #ffcd00;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  border-radius: 40px;
+  margin-left: -90px;
+}
+
+.judul-lain {
+  color: #025abf;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 81px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: -600px;
+  margin-bottom: 50px;
+}
+
+.kontak {
+  padding: 0rem 5rem;
+}
+
+.judul-akhir {
+  color: #ffcd00;
+  font-family: Poppins;
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 81px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-top: -20px;
+  margin-bottom: 30px;
+}
+
+.kinar {
+  padding-left: 250px;
+}
+
+.indikator {
+  padding-top: 1000px;
+}
+
+.kirim-pesan {
+  color: #ffffff;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0px;
+  text-align: left;
+  border-radius: 5px;
+  border: #025abf;
+}
+
+.btn-kopi {
+  color: #025abf;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  border-radius: 5px;
+  border: #ffffff;
+}
